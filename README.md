@@ -1,1 +1,1 @@
-# bamazon
+Bamazon is a command line software suite that includes a store front that allows customers to view current inventory and purchase products, allows store managers to view inventory levels, update inventory, and add new products, and allows supervisors to create new departments and view sales figures. 
